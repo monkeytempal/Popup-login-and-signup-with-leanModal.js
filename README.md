@@ -1,4 +1,4 @@
-Modal Window Login & Signup Form Using jQuery
+Popup Login & Signup with jQuery
 ==================================================
 
-This Popup login and Signup box is created with HTML5, CSS3 and leanModal.js plugin.
+This Modal Window Popup login and Signup box is created with HTML5, CSS3 and leanModal.js plugin.
